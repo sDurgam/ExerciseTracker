@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sExerciseTracker</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="minutes">minutes</string>
+    <string name="update">Update</string>
+    <string name="total_points">Total points earned so far:</string>
+	<string-array name="activity">
+	    <item>cardio</item>
+	    <item>swimming</item>
+	    <item>bike</item>
+	    <item>Abs</item>
+	    <item>walking</item>
+	</string-array>
+</resources>
